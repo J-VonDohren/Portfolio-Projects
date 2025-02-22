@@ -112,6 +112,3 @@ Task, 'Complete report', added successfully.
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
