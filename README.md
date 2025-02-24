@@ -18,8 +18,8 @@ This repository contains a task management system with two implementations:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/task-manager.git
-   cd task-manager
+   git clone https://github.com/J-VonDohren/Scalable_To-Do_List
+   cd Scalable_To-Do_List
    ```
 2. Install dependencies:
    ```sh
